@@ -17,7 +17,8 @@ Cara menjalankan
 Penulis
 
 Nama: Puan Akeyla Maharani Munaji
-NIM: 2315061070
+
+NPM: 2315061070
 
 Lisensi
 
