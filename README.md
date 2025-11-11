@@ -2,7 +2,7 @@
 
 Deskripsi singkat
 
-Proyek ini adalah tugas akhir praktikum Pemrograman Web 3 yang menampilkan contoh halaman web sederhana menggunakan HTML, CSS Tailwind Tujuan proyek adalah menerapkan konsep dasar pengembangan web front-end dan membuat halaman interaktif yang rapi.
+Proyek ini adalah tugas akhir praktikum Pemrograman Web 3 yang menampilkan contoh halaman web sederhana menggunakan HTML, CSS Tailwind.
 
 Fitur
 
