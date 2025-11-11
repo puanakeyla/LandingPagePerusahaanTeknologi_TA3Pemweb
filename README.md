@@ -9,12 +9,6 @@ Fitur
 - Struktur halaman statis (HTML)
 - Styling menggunakan CSS responsif sederhana
 
-Teknologi
-
-- HTML5
-- CSS3
-- JavaScript (vanilla)
-
 Cara menjalankan
 
 1. Buka folder proyek di file explorer.
