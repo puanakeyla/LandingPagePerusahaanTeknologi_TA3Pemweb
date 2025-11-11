@@ -14,12 +14,6 @@ Cara menjalankan
 1. Buka folder proyek di file explorer.
 2. Jalankan `index.html` dengan browser (klik dua kali atau buka lewat menu Open File di browser).
 
-Struktur berkas (utama)
-
-- `index.html` — halaman utama
-- `css/` — (opsional) gaya
-- `js/` — (opsional) skrip JavaScript
-
 Penulis
 
 Nama: Puan Akeyla Maharani Munaji
